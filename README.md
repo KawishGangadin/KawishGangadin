@@ -12,9 +12,10 @@
 
 ## 👤 Who I Am
 
-- 💻 Studying Informatica and sharpening my software engineering skills  
-- 🎮 Leading the technical direction at our studio Glorporation Games  
-- 🧩 Focused on building systems and tools that feel great to use and play  
+- 💻 Studying Informatica and developing solid software engineering fundamentals  
+- 🎮 Technical Lead of the development team at Glorporation Games  
+- 🧩 Designing and implementing gameplay systems and tools that are scalable, maintainable, and fun to use  
+
 
 ---
 
