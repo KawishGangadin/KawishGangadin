@@ -26,6 +26,21 @@
 - Improving code quality, architecture, and collaboration every sprint  
 
 ---
+## 🧱 What I Have Worked On
+
+Curious about the projects I have built and worked on?
+
+👉 [Check out my projects here](./PROJECTS.md)
+
+---
+
+## 📊 GitHub Stats
+
+Want to see more detailed stats and graphs about my GitHub activity?
+
+📈 [View my GitHub stats page](./GITHUBSTATS.md)
+
+---
 
 ## 🌐 Socials
 
